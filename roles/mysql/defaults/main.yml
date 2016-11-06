@@ -1,0 +1,6 @@
+---
+mysql_repo : 'deb http://archive.ubuntu.com/ubuntu trusty universe'
+mysql_package : "mysql-server-{{ mysql_version }}"
+
+mysql_version: 5.5
+

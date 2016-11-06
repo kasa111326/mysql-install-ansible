@@ -1,2 +1,1 @@
-# mysql-install-ansible
-This project has a mysql installation role.
+This project has a mysql installation role. This role can install mysql on Ubuntu.
